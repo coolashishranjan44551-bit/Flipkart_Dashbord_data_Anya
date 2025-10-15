@@ -40,7 +40,8 @@ The dashboard provides:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/dashboard.png)
+<img width="800" height="666" alt="image" src="https://github.com/user-attachments/assets/86e855f0-8f22-4591-8b81-b23461113133" />
+
 
 
 
