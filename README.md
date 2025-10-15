@@ -42,7 +42,7 @@ The dashboard provides:
 
 ![Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/dashboard.png)
 
-> *(You can replace this link with the actual GitHub asset or host location where you store the image. If you keep the file in your repo under `assets/`, the above path will work after pushing.)*
+
 
 ---
 
